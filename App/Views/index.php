@@ -3,6 +3,6 @@
 <p><?php echo $data['description'] ?></p>
 <hr>
 <p>
-    Please refer to <a href="https://github.com/devYojan/RegmiMVC/readme.md">docs</a> for usage and further info.
+    Please refer to <a href="https://github.com/devYojan/RegmiMVC/blob/master/README.md">docs</a> for usage and further info.
 </p>
 <?php require "inc/footer.php" ?>
